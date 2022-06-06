@@ -9,3 +9,6 @@ Notes:
 - Most filenames and function names are separated by a name with **ft** in front of it. This means "four hundred and two".
 - The project instructions require us to put all the source files in the root directory.
 - The code passed verification 21
+***
+
+@SSenpo
